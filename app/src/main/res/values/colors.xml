@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Computer Generated Palette -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- My Personal Color Palette -->
+    <color name="lemon_yellow">#FAF33E</color>
+    <color name="capri">#28C2FF</color>
+    <color name="charcoal">#274156</color>
+    <color name="Davys_Grey">#605856</color>
+    <color name="Light_Gray">#D0CCD0</color>
+    <color name="Rosewood">#5A0002</color>
+
+    <!-- For my dark theme -->
+    <color name="Aero_Blue">#D3F6DB</color>
+    <color name="Queen_Pink">#D9BDC5</color>
+    <color name="Light_Green">#a1ef8b</color>
+    <color name="Gold_Metallic">#D1AC00</color>
+    <color name="Marigold">#DE9E36</color>
+    <color name="Light_Coral">#ff686b</color>
+    <color name="Crayola">#cc4bc2</color>
+
+</resources>
